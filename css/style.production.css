@@ -192,6 +192,9 @@ button:focus,
 
 .standard-label {
   margin-left: auto;
+  display: inline-block;
+  width: 90px;
+  text-align: right;
 }
 
 .cv-dio {
